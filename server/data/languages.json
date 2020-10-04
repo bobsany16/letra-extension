@@ -54,5 +54,9 @@
     "spanish": {
         "flag": "twa-spain-flag",
         "voice": "Spanish Female"
+    }, 
+    "vietnamese": {
+        "flag": "twa-viet-nam-vietnam-flag",
+        "voice": "Vietnamese Male"
     }
 }
